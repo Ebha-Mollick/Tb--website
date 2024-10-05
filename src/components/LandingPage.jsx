@@ -15,7 +15,7 @@ function LandingPage() {
                   intial={{width: 0}} 
                   animate={{width: "15vw"}} 
                   transition={{ease: [0.76, 0, 0.24, 1], duration: 1}}
-                  className="mr-[1vw] w-[8vw]  h-[5vw] relative top-[0.5vw] bg-blue-500"></motion.div>)}
+                  className="mr-[1vw] w-[8vw]  h-[5vw] relative top-[0.5vw] bg-blue-600"></motion.div>)}
             <h1 className="pt-[2vw] -mb-[1vw] uppercase text-[6.5vw] leading-[6.46w] tracking-tighter text-8xl font-['Founders_Grotesk_X_Condensed font-bold'] font-semibold">{item}</h1>
               </div>
               </div>         
